@@ -16,13 +16,13 @@ This program should be cross-platform but tested only with g++
 ## Run
 * arguments through stdin
 
-   $ ./drcluni  
+   $ ./drkluni  
    K1 M K2 P2 L2
 
 * arguments throught command line options
 
-    $ ./drcluni K1 M K2 P2 L2
+    $ ./drkluni K1 M K2 P2 L2
 
 * test using prewritten test-cases
 
-    $ ./drcluni --test
+    $ ./drkluni --test
