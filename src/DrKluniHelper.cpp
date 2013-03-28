@@ -62,7 +62,9 @@ DrKluniHelper::DrKluniHelper(int K1, int M,
             floor_ = 0;
         }
 
-        if (w >= K1) {
+        if (w >= K1
+            || (floor_ == 0 && entrance_ == 0)
+            ) {
             break;
         }
     }
