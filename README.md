@@ -29,4 +29,4 @@ This program should be cross-platform but tested only with g++
 
 ## Notes
 * The actual prolem-solving code is located in src/DrKluniHelper.cpp in contructor 
-* Algorithm running time is &Theta;(1) for special cases and &Theta;(min(K1,K2)) for the general case
+* Algorithm running time is &Theta;(1) for special cases and &Omicron;(min(K1,K2)) for the worst case
