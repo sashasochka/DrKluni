@@ -1,6 +1,6 @@
 # Dr. Kluni [![Build Status](https://travis-ci.org/sochka/DrKluni.png)](https://travis-ci.org/sochka/DrKluni)
 
-This is a program which solves a problem of virtual doctor called "Dr. Cluni" for testing author's skill.
+This is a program which solves a problem of virtual doctor called "Dr. Kluni" for testing author's skill.
 
 
 ## Build
