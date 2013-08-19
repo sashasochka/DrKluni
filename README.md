@@ -16,16 +16,16 @@ This program should be cross-platform but tested only with g++
 ## Run
 * arguments through stdin
 
-   $ ./drkluni
-   K1 M K2 P2 L2
+        $ ./drkluni
+        K1 M K2 P2 L2
 
 * arguments throught command line options
 
-    $ ./drkluni K1 M K2 P2 L2
+        $ ./drkluni K1 M K2 P2 L2
 
 * test using prewritten test-cases
 
-    $ ./drkluni --test
+        $ ./drkluni --test
 
 ## Notes
 * The actual prolem-solving code is located in src/DrKluniHelper.cpp in contructor
